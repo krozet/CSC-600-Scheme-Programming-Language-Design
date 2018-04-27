@@ -45,6 +45,9 @@
   (do ((i 0 (add1 i)))
     ((>= i max-row) column)
     (vector-set! column i (vector-ref (vector-ref mat i) j))))
+; display the column
+(define (display-col filename j)
+  (display-vector (col filename (- j 1))))
 
 ; matrix multiplication
 (define (mmul matrix-data1 matrix-data2 matrix-output-file)
