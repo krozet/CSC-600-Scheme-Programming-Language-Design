@@ -4,7 +4,7 @@ Csc 600-01
 
 Keawa Rozet
 
-Code available at: [https://github.com/krozet/](https://github.com/krozet/Scheme-Programming-Language-Design)
+Code available at: [https://github.com/krozet/Scheme-Programming-Language-Design](https://github.com/krozet/Scheme-Programming-Language-Design)
 
 # Question #1 Prompt
 
